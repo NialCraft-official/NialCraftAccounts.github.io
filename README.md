@@ -1,7 +1,7 @@
 # ☢️ NIAL API // CORE AUTONOMOUS SECURITY NODE v3.0
 
 > **[CRITICAL WARNING] SYSTEM NODE ACCESS RESTRICTED // NIAL LABS CHANNELS ONLY**
-> 
+> ---
 > **NOTE: МЫ НЕЗАВИСИМЫ НИ ОТ КОГО. ПОЛНЫЙ СУВЕРЕНИТЕТ ЯДРА.**
 
 ---
